@@ -1,0 +1,60 @@
+Test 1
+Quick sort time: 86ms
+Heap sort time: 265ms
+Merge sort time: 110ms
+C++ sort time: 131ms
+
+Test 2
+Quick sort time: 64ms
+Heap sort time: 220ms
+Merge sort time: 110ms
+C++ sort time: 60ms
+
+Test 3
+Quick sort time: 38ms
+Heap sort time: 261ms
+Merge sort time: 165ms
+C++ sort time: 121ms
+
+Test 4
+Quick sort time: 50ms
+Heap sort time: 287ms
+Merge sort time: 203ms
+C++ sort time: 138ms
+
+Test 5
+Quick sort time: 67ms
+Heap sort time: 315ms
+Merge sort time: 255ms
+C++ sort time: 146ms
+
+Test 6
+Quick sort time: 46ms
+Heap sort time: 297ms
+Merge sort time: 222ms
+C++ sort time: 141ms
+
+Test 7
+Quick sort time: 68ms
+Heap sort time: 319ms
+Merge sort time: 223ms
+C++ sort time: 150ms
+
+Test 8
+Quick sort time: 43ms
+Heap sort time: 307ms
+Merge sort time: 222ms
+C++ sort time: 162ms
+
+Test 9
+Quick sort time: 43ms
+Heap sort time: 306ms
+Merge sort time: 197ms
+C++ sort time: 127ms
+
+Test 10
+Quick sort time: 38ms
+Heap sort time: 261ms
+Merge sort time: 181ms
+C++ sort time: 120ms
+
